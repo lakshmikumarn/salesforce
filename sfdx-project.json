@@ -5,5 +5,7 @@
         "default": true
     },
     "sfdcLoginUrl": "https://login.salesforce.com/",
+    "username": "lnarayanan@acumenvcstraining.com",
+    "password": "Laks1976M260brOLBA2Ypubsfa9FPhPds",
     "sourceApiVersion": "44.0"
 }
