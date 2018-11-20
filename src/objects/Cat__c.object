@@ -67,6 +67,17 @@
             <valueSetName>Cat_Breed</valueSetName>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>Orders__c</fullName>
+        <externalId>false</externalId>
+        <label>Orders</label>
+        <length>10</length>
+        <referenceTo>Orders__x</referenceTo>
+        <relationshipLabel>Cats</relationshipLabel>
+        <relationshipName>Cats</relationshipName>
+        <trackTrending>false</trackTrending>
+        <type>ExternalLookup</type>
+    </fields>
     <label>Cat</label>
     <listViews>
         <fullName>All</fullName>
