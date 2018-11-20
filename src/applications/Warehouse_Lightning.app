@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Warehouse Lightning</label>
+    <navType>Standard</navType>
+    <tabs>standard-home</tabs>
+    <tabs>standard-Feed</tabs>
+    <tabs>standard-File</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>Merchandise__c</tabs>
+    <tabs>Invoice__c</tabs>
+    <tabs>Warehouse__c</tabs>
+    <tabs>Delivery__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>Data</tabs>
+    <tabs>Cat__c</tabs>
+    <tabs>Interested_Person__c</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>
