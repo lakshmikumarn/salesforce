@@ -5,7 +5,7 @@ global with sharing class AccountWebservice {
         System.debug('Account returned ' + act);
         System.debug('Changed in VSCode');
         System.debug('second update in feature2');
-        System.debug('Test merge conflicts');
+        
         
         return act;
     }
